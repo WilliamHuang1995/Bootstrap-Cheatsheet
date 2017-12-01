@@ -1,4 +1,4 @@
-#BootStrap Cheatsheet
+# BootStrap Cheatsheet
 Following this exercise has really helped me strengthen my grip on Bootstrap class usage.
 
 While learning the different components of bootstrap, I also managed to pick up using Emmet.  
